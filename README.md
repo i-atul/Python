@@ -1,2 +1,2 @@
 # Python-
-Hands on, Project-Based Introduction to PYTHON Programming
+Hands on, Project-Based Introduction to Python Programming
