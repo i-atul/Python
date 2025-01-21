@@ -1,0 +1,7 @@
+modules = ["python-3.11", "python-base-3.13"]
+run = "python sll.py"
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "python sll.py"]
